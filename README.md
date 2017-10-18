@@ -1,6 +1,8 @@
 # Personal-Web-CV
 My personal web CV and blog
 
+#I made minor changes, can I see them?
+
 #My personal web cv besides being a promotional tool for me to find jobs and clients it is also where I like to practice my web development skills.
 
 #The languages I like to use are HTML, CSS, and Javascript (mainly)

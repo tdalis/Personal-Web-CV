@@ -251,10 +251,12 @@ body {width: 92%; margin: 0 auto} /* Center page without wrapper */
 /* Photo */
 .photo{
   float: left;
-  height: 200px;
-  width: 200px;
+  height: 150px;
+  width: 150px;
   margin-right: 20px;
   overflow: hidden;
+}
+
 }
 .photo img{
  -webkit-border-radius: 4px;
